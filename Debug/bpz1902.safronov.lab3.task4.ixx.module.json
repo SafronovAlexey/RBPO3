@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\анатолий\\source\\repos\\consoleapplication3\\consoleapplication3\\bpz1902.safronov.lab3.task4.ixx",
+        "ProvidedModule": "BPZ1902.Safronov.Lab3.Task4",
+        "ImportedModules": [
+            "BPZ1902.Safronov.Lab3.Task4:f1",
+            "BPZ1902.Safronov.Lab3.Task4:f2",
+            "BPZ1902.Safronov.Lab3.Task4:a",
+            "BPZ1902.Safronov.Lab3.Task4:f3",
+            "BPZ1902.Safronov.Lab3.Task4:f4"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cmath"
+        ]
+    }
+}

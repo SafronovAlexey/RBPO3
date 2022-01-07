@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\анатолий\\source\\repos\\consoleapplication3\\consoleapplication3\\bpz1902.safronov.lab3.task5.ixx",
+        "ProvidedModule": "BPZ1902.Safronov.Lab3.Task5",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cmath"
+        ]
+    }
+}
